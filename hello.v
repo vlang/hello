@@ -1,5 +1,5 @@
 module hello
 
-fn sayhi() {
+pub fn sayhi() {
   println('hello world from module hello')
 }
