@@ -1,6 +1,6 @@
 module hello
 
-// 3
+// 4
 pub fn sayhi() {
   println('hello world from module "hello"')
 }
